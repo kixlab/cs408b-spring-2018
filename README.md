@@ -1,2 +1,4 @@
-# cs408b-spring-2018
-Course website for CS408B
+CS408E Spring 2018
+===
+
+Computer Science Project
